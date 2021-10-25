@@ -1,1 +1,3 @@
 # rust
+
+## various educational projects
